@@ -1,0 +1,1 @@
+the Article - артикль
