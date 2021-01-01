@@ -444,27 +444,3 @@ pre.line-numbers > code {
   padding-right: 0.8em !important;
   text-align: right !important;
 }
-
-/* Custom styles */
-
-body {
-  /*font-size: 16px;*/
-}
-
-.cm-s-obsidian
-{
-  /*font-size: 1rem;*/
-}
-
-.cm-header-1, h1 {
-  /*font-size: 1.75rem !important;*/
-}
-
-.cm-strong, strong {
-  font-size: 110%;
-}
-
-.HyperMD-table-row:hover, tr:hover {
-  background-color: #000 !important;
-}
-
