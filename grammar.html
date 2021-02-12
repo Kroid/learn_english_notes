@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>grammar</title>
+    <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/styles/default.min.css">
   </head>
   <body>
     <div id="content"><p>Части речи:</p>
@@ -11,5 +12,11 @@
 3. 
 </ol>
 </div>
+
+    <script src="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/highlight.min.js"></script>
+    <script>
+      hljs.configure({noHighlightRe: /^mermaid$/});
+      hljs.initHighlightingOnLoad();
+    </script>
   </body>
 </html>
