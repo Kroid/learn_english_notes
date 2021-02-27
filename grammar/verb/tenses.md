@@ -46,11 +46,25 @@ and four aspects:
 
 ## Sentences structure
 
-### Affirmative sentence
-**Subject + modal + Verb**
+| sentence type          | sentence structure           |
+| ---------------------- | ---------------------------- |
+| Positive / Affirmative | Subject + modal + Verb       |
+| Negative               | Subject + modal + not + Verb |
+| Interrogative          | modal + Subject + Verb       |
 
-### Negative sentence
-**Subject + modal + not + Verb**
 
-### Interrogative sentence
-**modal + Subject + Verb**
+### Present Simple
+
+| Sentence type | Structure                   |
+| ------------- | --------------------------- |
+| Positive      | Subject + V/V-s             |
+| Negative      | Subject + do/does + not + V |
+| Interrogative | Do/does + Subject + V       |
+
+Example:
+
+|             | Positive | Negative        | Interrogative |
+| ----------- | -------- | --------------- | ------------- |
+| I           | I play   | I don't play    | Do I play?    |
+| he/she/it   | He plays | He doesn't play | Does he play? |
+| we/you/they | We play  | We don't play   | Do we play?   |
