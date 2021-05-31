@@ -53,6 +53,8 @@ and four aspects:
 | Interrogative          | modal + Subject + Verb       |
 
 
+### Past Simple
+
 ### Present Simple
 
 | Sentence type | Structure                   |
@@ -68,3 +70,21 @@ Example:
 | I           | I play   | I don't play    | Do I play?    |
 | he/she/it   | He plays | He doesn't play | Does he play? |
 | we/you/they | We play  | We don't play   | Do we play?   |
+
+### Future Simple
+
+### 
+
+| Sentence type | Structure            |
+| ------------- | -------------------- |
+| Positive      | Subject + + V        |
+| Negative      | Subject +  + not + V |
+| Interrogative | + Subject + V        | 
+
+Example:
+
+|             | Positive | Negative | Interrogative |
+| ----------- | -------- | -------- | ------------- |
+| I           | I        | I        | I play?       |
+| he/she/it   | He       | He       | he play?      |
+| we/you/they | We       | We       | we play?      | 
