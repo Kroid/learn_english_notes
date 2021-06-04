@@ -1,7 +1,7 @@
 # Present Perfect Continuous
 
-Вспомогательные глаголы: **have been / has been**
-Форма глагола: **V-ing**
+Вспомогательный глагол: **have been / has been**.
+Форма глагола: **V-ing**.
 
 ## Схемы построения предложений
 

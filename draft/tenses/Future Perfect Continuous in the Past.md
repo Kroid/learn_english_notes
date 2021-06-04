@@ -1,7 +1,7 @@
 # Future Perfect Continuous in the Past
 
-Вспомогательные глаголы: **would have been**
-Форма глагола: **V-ing**
+Вспомогательный глагол: **would have been**.
+Форма глагола: **V-ing**.
 
 ## Схемы построения предложений
 
