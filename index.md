@@ -1,1 +1,2 @@
-[[grammar/verb/tenses]]
+# index
+[[tenses]]
